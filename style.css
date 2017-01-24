@@ -1,0 +1,26 @@
+* {
+	font-family: Calibri;
+}
+
+body {
+	margin-left: 20%;
+	margin-right: 20%; 
+}
+
+h1,h2 {
+	text-align: center;
+}
+
+h5 {
+	margin-bottom: 0;
+	font-size: 15px;
+}
+
+pre {
+	margin: 0;
+}
+
+.code {
+	background-color: #ccc;
+	font-family: Consolas;
+}
